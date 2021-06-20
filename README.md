@@ -13,7 +13,7 @@
 
 <br>
 
-<p> <b>Apekar</b> is a Ruby CLI tool to analyze APK files and search for API Keys, Secrets and get required permissions by the app. </p>
+<p> 👾 <b> Apekar </b> is a Ruby CLI tool to analyze APK files to search for API keys, Secrets, Hosts and detect required permissions by the app. </p>
 
 <br>
 
