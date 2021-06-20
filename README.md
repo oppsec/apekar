@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/github/license/oppsec/apekar?logo=github&logoColor=green&style=for-the-badge">
     <img src="https://img.shields.io/github/issues/oppsec/apekar?color=green&logo=github&logoColor=green&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/oppsec/apekar?color=green&label=STARS&logo=github&logoColor=green&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/code-size/apekar/juumla?color=green&logo=github&logoColor=green&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/oppsec/apekar?color=green&logo=github&logoColor=green&style=for-the-badge">
 </p>
 
 <br>
 
-<p> <b>Apekar</b> Apekar is a Ruby CLI Tool to analyze APK files and search for API Keys, Secrets and get required permissions by the app. </p>
+<p> <b>Apekar</b> is a Ruby CLI Tool to analyze APK files and search for API Keys, Secrets and get required permissions by the app. </p>
 
 <br>
 
