@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/oppsec/apekar?color=green&logo=github&logoColor=green&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/oppsec/apekar?logo=github&logoColor=green&style=for-the-badge">
     <img src="https://img.shields.io/github/issues/oppsec/apekar?color=green&logo=github&logoColor=green&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/oppsec/apekar?color=green&label=STARS&logo=github&logoColor=green&style=for-the-badge">
     <img src="https://img.shields.io/github/languages/code-size/apekar/juumla?color=green&logo=github&logoColor=green&style=for-the-badge">
