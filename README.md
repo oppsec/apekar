@@ -13,7 +13,7 @@
 
 <br>
 
-<p> <b>Apekar</b> is a Ruby CLI Tool to analyze APK files and search for API Keys, Secrets and get required permissions by the app. </p>
+<p> <b>Apekar</b> is a Ruby CLI tool to analyze APK files and search for API Keys, Secrets and get required permissions by the app. </p>
 
 <br>
 
@@ -49,13 +49,14 @@ If you want to run Apekar in a Docker container, follow this commands:
 - Fast scan
 - Low RAM and CPU usage
 - Open-Source
-
+- Ruby ❤️
 
 <br><br>
 
 ### 📚 To-Do
 - [ ] Vulnerability Scanner
-- [ ] Support direct .apk files
+- [ ] Support .apk files
+- [ ] Detect third-party services
 - [ ] Improve code
 
 <br><br>
