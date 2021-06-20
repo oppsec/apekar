@@ -1,0 +1,12 @@
+{
+    "Android Camera Permission": "android.hardware.camera",
+    "Internet Access Permission": "android.permission.INTERNET",
+    "Call Phone Permission": "android.permission.CALL_PHONE",
+    "Bluuetooth Permission": "android.permission.BLUETOOTH",
+    "Bluetooth Admin Permission": "android.permission.BLUETOOTH_ADMIN",
+
+    "Flashlight Permission": "android.permission.FLASHLIGHT",
+    "Cellphone Vibrate Permission": "android.permission.VIBRATE",
+
+    "Read Contacts Permission": "android.permission.READ_CONTACTS"
+}

@@ -1,0 +1,12 @@
+{
+    "IO Fabric API Key": "io.fabric.ApiKey",
+    "AppLovin SDK Key": "applovin.sdk.key",
+    "Firebase": "firebase.io",
+    "Azure Websites": "azurewebsites.net",
+    "Google Appspot": "appspot.com",
+    "OneSignal APP ID": "onesignal_app_id",
+    "Google API Key": "google_api_key",
+    "AWS Url": "s3.amazonaws.com",
+    "AWS Console": "s3.console.aws.amazon.com",
+    "Github Address": "@github.com"
+}
