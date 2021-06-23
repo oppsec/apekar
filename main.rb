@@ -9,5 +9,4 @@ def main()
     initializer()
 end
 
-
 main()

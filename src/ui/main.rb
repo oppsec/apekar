@@ -10,5 +10,5 @@ end
 
 # Clear the screen
 def clear()
-    system("clear") || system('cls')
+    system("clear || cls")
 end
