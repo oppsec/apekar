@@ -1,0 +1,4 @@
+{
+    "Facebook": "com.facebook.sdk.ApplicationId",
+    "Firebase": "firebase_crashlytics_collection_enabled"
+}
