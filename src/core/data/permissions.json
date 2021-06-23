@@ -1,12 +1,19 @@
 {
-    "Android Camera Permission": "android.hardware.camera",
-    "Internet Access Permission": "android.permission.INTERNET",
-    "Call Phone Permission": "android.permission.CALL_PHONE",
-    "Bluuetooth Permission": "android.permission.BLUETOOTH",
-    "Bluetooth Admin Permission": "android.permission.BLUETOOTH_ADMIN",
+    "Camera Access": "android.hardware.camera",
+    "Internet Access": "android.permission.INTERNET",
+    "Call Phone": "android.permission.CALL_PHONE",
+    "User Location": "android.permission.ACCESS_FINE_LOCATION",
+    "Bluetooth": "android.permission.BLUETOOTH",
+    "Bluetooth Admin": "android.permission.BLUETOOTH_ADMIN",
 
-    "Flashlight Permission": "android.permission.FLASHLIGHT",
-    "Cellphone Vibrate Permission": "android.permission.VIBRATE",
+    "Write Internal Storage": "android.permission.WRITE_INTERNAL_STORAGE",
+    "Write External Storage": "android.permission.WRITE_EXTERNAL_STORAGE",
+    "Read External Storage": "android.permission.READ_EXTERNAL_STORAGE",
 
-    "Read Contacts Permission": "android.permission.READ_CONTACTS"
+    "Start Foreground Services": "android.permission.FOREGROUND_SERVICE",
+
+    "Flashlight": "android.permission.FLASHLIGHT",
+    "Cellphone Vibrate": "android.permission.VIBRATE",
+
+    "Read Contacts": "android.permission.READ_CONTACTS"
 }
