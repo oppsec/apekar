@@ -1,5 +1,6 @@
 {
     "IO Fabric API Key": "io.fabric.ApiKey",
+    "IO Branch SDK Key": "io.branch.sdk.BranchKey",
     "AppLovin SDK Key": "applovin.sdk.key",
     "Firebase": "firebase.io",
     "Azure Websites": "azurewebsites.net",
@@ -8,5 +9,7 @@
     "Google API Key": "google_api_key",
     "AWS Url": "s3.amazonaws.com",
     "AWS Console": "s3.console.aws.amazon.com",
-    "Github Address": "@github.com"
+    "Github Address": "@github.com",
+    "Finbox API Key": "finbox_api_key",
+    "Truecaller SDK Partner key": "com.truecaller.android.sdk.PartnerKey"
 }
