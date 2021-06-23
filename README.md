@@ -56,8 +56,8 @@ If you want to run Apekar in a Docker container, follow this commands:
 ### 📚 To-Do
 - [ ] Vulnerability Scanner
 - [ ] Support .apk files
-- [ ] Detect third-party services
-- [ ] Improve code
+- [x] Detect third-party services
+- [x] Improve code
 
 <br><br>
 
